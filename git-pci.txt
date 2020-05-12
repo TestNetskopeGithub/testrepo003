@@ -1,0 +1,7 @@
+Bank-CC	name	Credit Card	CC-EXP
+visa	Robert Aragon	4929-3813-3266-4295	12/1
+amex	Ashley Borden	5299-1561-5689-1938	10/2
+mastero	Rick Edwards	5293-8502-0071-3058	12/3
+visa	James	4532-4220-6922-9909	12/4
+amex	Diaz	5299-1561-5689-1938	12/5
+mastero	Green	4916-9766-5240-6147	12/6
